@@ -1,34 +1,65 @@
-# Peace In The Middle East: Agentic Geopolitical Summit
+# Peace In The Middle East: An Agentic Geopolitical Experiment
 
-![alt text](banner.jpeg)
+![Peace In The Middle East Banner](banner.jpeg)
 
-(PITME) Is an experiment in agentic AI.
+**PITME** is a modest experiment in multi-agent AI—an attempt to simulate geopolitical dialogue using AI agents that embody state actors, non-state actors, and civil society representatives.
 
-The premise is straightforward:
+This is not a solution to anything. It's an exploration of whether synthetic actors can surface interesting dynamics, test negotiation frameworks, or simply provide a low-cost sandbox for thinking through complex scenarios.
 
-- AI agents can be used to "embody" certain worldviews or personalities.  
-- To an extent, our elected representatives, and our diplomats, are proxies for our nations. To an extent, they are not: person to person diplomacy is often touted as a way to circumnavigate the limitations of state-to-state dialogue. 
+## The Premise
 
-Protracted conflict provokes fatigue even among the most motivated and sincere of mediating parties.  
+AI agents can be configured to "embody" certain worldviews and political positions. Our elected representatives and diplomats are, to an extent, proxies for our nations—and to an extent, they are not. Person-to-person diplomacy is often touted as a way to circumvent the limitations of state-to-state dialogue.
 
-Organising geopolitical summits, between states, is extremely expensive. Time is of the essence, too: proposals need to be pre-screened for viability before being put on the negotiating agenda. 
+**Some observations about traditional diplomacy:**
 
-When nations are at war, or in a state of permanent hostility, we turn to a familiar pool of potential sotluions that may not always yield results: multilateral institutions; states who take it upon themselves to act as the mediators. 
+- Organizing geopolitical summits is extremely expensive
+- Protracted conflict exhausts even motivated mediating parties
+- Much negotiation happens behind closed doors
+- Grassroots dialogue often goes unrecorded
+- In conflict regions, "normalization" faces social and political pressure
 
-Even when this process is successful it is also, to an extent, opaque: the fate of many is shaped by the negotiations of a few which happens behind closed doors. It is exclusionary.
+There are complex webs of geopolitical interdependence. Within societies, internal fractures persist. Problems may perpetuate for reasons other than those generally assumed.
 
-At the grassroots level, casual person-to-person diplomacy often goes unrecorded.  In the Middle East, there is a prevailing narrative that strength is valor and that concessions and negotiations are for the weak. 
+## Why Bother?
 
-This manifests in internal pressures, within societies, against "normalisation." Forms of enforcement and repression range from violence to economic coercion to the more nebulous social shunning.
+There are abundant reasons to be skeptical that synthesized geopolitical actors could be anything other than ridiculous.
 
-There are complex webs of geopolitical interdependence, too: between Israel and the US; between Lebanon and Iran. Within societies, there are internal fractures. Problems may perpetuate for reasons other than those which are generally assumed to be true.
+But the cost barrier is interesting: a single one-day summit involving heads of state can cost tens of millions of dollars. That same budget could run API calls for a very long time. If nothing else, this provides a cheap sandbox for exploring negotiation dynamics—with full transparency, since everything is recorded.
 
-## Agentic Political Summit
+And if AI is good enough to generate endless cat photos, maybe it's worth trying for something with slightly higher stakes. Even if it fails, we might learn something about what doesn't work.
 
-There are abundant reasons to be skeptical about the idea that synthesized geopolitical actors, embodied in the form of AI personalities, could be anything other than ridiculous and delusional.
+## How It Works
 
-Equally, there's a powerful incentive to give the idea wide broach:
+### Representation Rules
 
-The cost of even a brief one day geopolitical summit involving heads of state can stretch into the tens of millions of dollars. The bill could pay the API costs for this project for the indefinite future.
+1. **No Individual Impersonation**: Agents represent political entities and worldviews, never specific named individuals
+2. **Current Alignment**: Agents shadow real political positions (e.g., "Prime Minister of Israel" aligns with current incumbent's party/worldview)
+3. **Reality-Based**: The simulation starts from geopolitical reality, not idealized versions
 
-The potential of millions of people in conflict-locked regions is held back by conflicts that they often had no role in starting nor in perpetuating. And - most pertinently - if AI is good enough to serve up an infinite stream of fantastically realistic cat photos, don't we owe it to ourselves to at least try it for something serious!? 
+### Summit Structure
+
+**Chambers:**
+- **Plenary** — Full assembly of all delegations
+- **Government Chamber** — State representatives only
+- **People-to-People Forum** — Civil society, faith groups, minority representatives
+- **Working Groups** — Issue-specific committees
+
+All proceedings are recorded. Unlike real diplomacy, there are no closed doors here.
+
+## Limitations & Caveats
+
+- This is an **experiment**, not a policy tool
+- Outputs are exploratory, not predictive
+- AI cannot capture full human complexity
+- Results will reflect training data biases
+- The simulation may produce nothing useful
+
+The goal is to learn something, not to solve the Middle East.
+
+## Project Status
+
+Early development. See [CLAUDE.md](CLAUDE.md) for technical details.
+
+---
+
+*A small experiment in synthetic dialogue.*
